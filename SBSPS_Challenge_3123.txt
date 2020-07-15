@@ -1,0 +1,7 @@
+﻿
+1 x=int(input())
+2 if(x>=36 && x<=37):
+3    print("Body temperature normal")
+4 else:
+5    print("Body temperature is high")
+
